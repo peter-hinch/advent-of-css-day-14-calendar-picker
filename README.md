@@ -1,4 +1,4 @@
-# Advent of CSS 2022 - Day 14 - Calendar Picker
+# Advent of CSS - Day 14 - Calendar Picker
 
 This is my submission for day 14 of the [Advent of CSS](https://www.adventofcss.com/) challenge.
 
